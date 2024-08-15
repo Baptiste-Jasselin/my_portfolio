@@ -1,7 +1,7 @@
-import Footer from '../Footer';
-import Header from '../Header';
+import Footer from '../Footer/Footer';
+import Header from '../Header/Header';
 import Main from '../Main/Main';
-import Navbar from '../Navbar';
+import Navbar from '../Navbar/Navbar';
 import './App.scss';
 
 function App() {
