@@ -1,6 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 export default {
-  content: ['./src/**/*.{html,ts,tsx,jsx,js}'],
+  content: ['./index.html', './src/**/*.{html,ts,tsx,jsx,js}'],
   theme: {
     fontFamily: {
       sans: ['Courier Prime', 'monospace'],
