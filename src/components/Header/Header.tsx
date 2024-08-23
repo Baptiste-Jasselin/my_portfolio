@@ -1,6 +1,6 @@
 function Header() {
   return (
-    <div className="grid col-span-2 max-w-screen-md gap-6">
+    <div className="my-10 grid col-span-2 max-w-screen-md gap-6">
       <img
         className="justify-self-end row-span-2 size-60 min-w-60"
         src="src/assets/pdp.png"

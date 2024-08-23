@@ -6,7 +6,12 @@ export default {
       sans: ['Courier Prime', 'monospace'],
       caption: ['Montserrat', 'sans-serif'],
     },
-    extend: {},
+    extend: {
+      colors: {
+        'main-blue': '#5271ff',
+        'main-blue-70': '#cbd5ff', // couleur du bleu principale allégé en transparence de 70%
+      },
+    },
   },
   plugins: [],
 };
