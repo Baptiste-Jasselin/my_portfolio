@@ -1,9 +1,5 @@
 function Footer() {
-  return (
-    <button type="submit" className="my-8 font-sans text-xl">
-      Version 1
-    </button>
-  );
+  return <span className="my-8 font-sans text-xl">Version 1</span>;
 }
 
 export default Footer;

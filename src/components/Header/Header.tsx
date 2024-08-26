@@ -14,17 +14,39 @@ function Header() {
         consequatur, illo similique officiis aspernatur labore?
       </p>
       <div className="justify-self-center col-span-2 grid grid-cols-3 gap-6">
-        <img
-          className="w-8"
-          src="src/assets/github-mark.svg"
-          alt="Github logo"
-        />
-        <img
-          className="w-8"
-          src="src/assets/LinkedIn_icon.svg"
-          alt="LinkedIn logo"
-        />
-        <img className="w-8" src="src/assets/enveloppe.png" alt="Email logo" />
+        <a
+          href="https://github.com/Baptiste-Jasselin"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <img
+            className="w-8"
+            src="src/assets/github-mark.svg"
+            alt="Github logo"
+          />
+        </a>
+        <a
+          href="https://linkedin.com/in/baptiste-jasselin"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <img
+            className="w-8"
+            src="src/assets/LinkedIn_icon.svg"
+            alt="LinkedIn logo"
+          />
+        </a>
+        <a
+          href="mailto:baptistejasselin@gmail.com"
+          // target="_blank"
+          // rel="noreferrer"
+        >
+          <img
+            className="w-8"
+            src="src/assets/enveloppe.png"
+            alt="Email logo"
+          />
+        </a>
       </div>
     </div>
   );

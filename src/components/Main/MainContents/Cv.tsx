@@ -7,7 +7,9 @@ function Cv() {
       <dl className="grid grid-cols-6">
         <p className="font-sans font-bold text-xl">avr. 24</p>
         <dt className="font-sans font-bold text-2xl col-span-5 col-start-2">
-          Développeur Web Product Owner - École O’clock, téléprésentiel
+          <a href="https://oclock.io/" target="_blank" rel="noreferrer">
+            Développeur Web Product Owner - École O’clock, téléprésentiel
+          </a>
         </dt>
         <p />
         <dd className="font-sans text-xl col-span-5 col-start-2">
@@ -19,50 +21,117 @@ function Cv() {
           collaboratif (équipe de 5 développeurs) en suivant la méthode agile
           SCRUM sur une durée de 1 mois.
           <div className="flex flex-wrap gap-1.5">
-            <span className="whitespace-nowrap rounded-full bg-main-blue-70 px-2.5 py-0.5 text-sm text-main-blue">
+            <a
+              href="https://nodejs.org/en"
+              target="_blank"
+              rel="noreferrer"
+              className="whitespace-nowrap rounded-full bg-main-blue-70 px-2.5 py-0.5 text-sm text-main-blue"
+            >
               Node.js
-            </span>
-            <span className="whitespace-nowrap rounded-full bg-main-blue-70 px-2.5 py-0.5 text-sm text-main-blue">
+            </a>
+            <a
+              href="https://www.postgresql.org/"
+              target="_blank"
+              rel="noreferrer"
+              className="whitespace-nowrap rounded-full bg-main-blue-70 px-2.5 py-0.5 text-sm text-main-blue"
+            >
               PostgreSQL
-            </span>
-            <span className="whitespace-nowrap rounded-full bg-main-blue-70 px-2.5 py-0.5 text-sm text-main-blue">
+            </a>
+            <a
+              href="https://www.mongodb.com/"
+              target="_blank"
+              rel="noreferrer"
+              className="whitespace-nowrap rounded-full bg-main-blue-70 px-2.5 py-0.5 text-sm text-main-blue"
+            >
               MongoDB
-            </span>
-            <span className="whitespace-nowrap rounded-full bg-main-blue-70 px-2.5 py-0.5 text-sm text-main-blue">
+            </a>
+            <a
+              href="https://www.prisma.io/"
+              target="_blank"
+              rel="noreferrer"
+              className="whitespace-nowrap rounded-full bg-main-blue-70 px-2.5 py-0.5 text-sm text-main-blue"
+            >
               Prisma
-            </span>
-            <span className="whitespace-nowrap rounded-full bg-main-blue-70 px-2.5 py-0.5 text-sm text-main-blue">
+            </a>
+            <a
+              href="https://www.npmjs.com/package/jsonwebtoken"
+              target="_blank"
+              rel="noreferrer"
+              className="whitespace-nowrap rounded-full bg-main-blue-70 px-2.5 py-0.5 text-sm text-main-blue"
+            >
               JSON Web Token
-            </span>
-            <span className="whitespace-nowrap rounded-full bg-main-blue-70 px-2.5 py-0.5 text-sm text-main-blue">
+            </a>
+            <a
+              href="https://www.npmjs.com/package/bcrypt"
+              target="_blank"
+              rel="noreferrer"
+              className="whitespace-nowrap rounded-full bg-main-blue-70 px-2.5 py-0.5 text-sm text-main-blue"
+            >
               Bcrypt
-            </span>
-            <span className="whitespace-nowrap rounded-full bg-main-blue-70 px-2.5 py-0.5 text-sm text-main-blue">
+            </a>
+            <a
+              href="https://socket.io/"
+              target="_blank"
+              rel="noreferrer"
+              className="whitespace-nowrap rounded-full bg-main-blue-70 px-2.5 py-0.5 text-sm text-main-blue"
+            >
               Socket.io
-            </span>
-            <span className="whitespace-nowrap rounded-full bg-main-blue-70 px-2.5 py-0.5 text-sm text-main-blue">
+            </a>
+            <a
+              href="https://www.typescriptlang.org/"
+              target="_blank"
+              rel="noreferrer"
+              className="whitespace-nowrap rounded-full bg-main-blue-70 px-2.5 py-0.5 text-sm text-main-blue"
+            >
               TypeScript
-            </span>
-            <span className="whitespace-nowrap rounded-full bg-main-blue-70 px-2.5 py-0.5 text-sm text-main-blue">
+            </a>
+            <a
+              href="https://fr.react.dev/"
+              target="_blank"
+              rel="noreferrer"
+              className="whitespace-nowrap rounded-full bg-main-blue-70 px-2.5 py-0.5 text-sm text-main-blue"
+            >
               React
-            </span>
-            <span className="whitespace-nowrap rounded-full bg-main-blue-70 px-2.5 py-0.5 text-sm text-main-blue">
+            </a>
+            <a
+              href="https://mui.com/material-ui/"
+              target="_blank"
+              rel="noreferrer"
+              className="whitespace-nowrap rounded-full bg-main-blue-70 px-2.5 py-0.5 text-sm text-main-blue"
+            >
               Material UI
-            </span>
-            <span className="whitespace-nowrap rounded-full bg-main-blue-70 px-2.5 py-0.5 text-sm text-main-blue">
+            </a>
+            <a
+              href="https://swagger.io/"
+              target="_blank"
+              rel="noreferrer"
+              className="whitespace-nowrap rounded-full bg-main-blue-70 px-2.5 py-0.5 text-sm text-main-blue"
+            >
               Swagger
-            </span>
-            <span className="whitespace-nowrap rounded-full bg-main-blue-70 px-2.5 py-0.5 text-sm text-main-blue">
+            </a>
+            <a
+              href="https://zod.dev/"
+              target="_blank"
+              rel="noreferrer"
+              className="whitespace-nowrap rounded-full bg-main-blue-70 px-2.5 py-0.5 text-sm text-main-blue"
+            >
               Zod
-            </span>
-            <span className="whitespace-nowrap rounded-full bg-main-blue-70 px-2.5 py-0.5 text-sm text-main-blue">
+            </a>
+            <a
+              href="https://vitejs.dev/"
+              target="_blank"
+              rel="noreferrer"
+              className="whitespace-nowrap rounded-full bg-main-blue-70 px-2.5 py-0.5 text-sm text-main-blue"
+            >
               Vite.js
-            </span>
+            </a>
           </div>
         </dd>
         <p className="font-sans font-bold text-xl">juil. 23</p>
         <dt className="font-sans font-bold text-2xl col-span-5 col-start-2">
-          Stage d’observation développement web - Bexter, Toulon
+          <a href="https://www.bexter.fr/" target="_blank" rel="noreferrer">
+            Stage d’observation développement web - Bexter, Toulon
+          </a>
         </dt>
         {/* <p className="font-sans font-bold text-xl">août 19 - fev. 23</p>
         <dt className="font-sans font-bold text-2xl col-span-5 col-start-2">
@@ -89,8 +158,14 @@ function Cv() {
       <dl className="grid grid-cols-6">
         <p className="font-sans font-bold text-xl">oct. 24 - juin. 26</p>
         <dt className="font-sans font-bold text-2xl col-span-5 col-start-2">
-          Titre professionnel Concepteur Développeur d’Appdtcation Niveau 6
-          (RNCP37873) - École O’clock, téléprésentiel
+          <a
+            href="https://hub.oclock.io/hubfs/B2B/Alternance/Concepteur-developpeur-web-app-formation-oclock-alternance.pdf"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Titre professionnel Concepteur Développeur d’Appdtcation Niveau 6
+            (RNCP37873) - École O’clock, téléprésentiel
+          </a>
         </dt>
         <dd className="font-sans text-xl col-span-5 col-start-2">
           <ul>
@@ -104,7 +179,14 @@ function Cv() {
         </dd>
         <p className="font-sans font-bold text-xl">oct. 23 - avr. 24</p>
         <dt className="font-sans font-bold text-2xl col-span-5 col-start-2">
-          Titre professionnel Développeur Web et Web Mobile Niveau 5 (RNCP37674)
+          <a
+            href="https://www.francecompetences.fr/recherche/rncp/37674/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Titre professionnel Développeur Web et Web Mobile Niveau 5
+            (RNCP37674)
+          </a>
         </dt>
         <dd className="font-sans text-xl col-span-5 col-start-2">
           <ul>
