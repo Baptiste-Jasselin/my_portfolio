@@ -5,8 +5,8 @@ function Cv() {
         🏗️ Expériences
       </h2>
       <dl className="grid grid-cols-6">
-        <p className="font-sans font-bold text-xl">avr. 24</p>
-        <dt className="font-sans font-bold text-2xl col-span-5 col-start-2">
+        <p className="font-sans font-bold text-xl mt-3 mb-1.5">avr. 24</p>
+        <dt className="font-sans font-bold text-2xl col-span-5 col-start-2 mt-3 mb-1.5">
           <a href="https://oclock.io/" target="_blank" rel="noreferrer">
             Développeur Web Product Owner - École O’clock, téléprésentiel
           </a>
@@ -127,8 +127,8 @@ function Cv() {
             </a>
           </div>
         </dd>
-        <p className="font-sans font-bold text-xl">juil. 23</p>
-        <dt className="font-sans font-bold text-2xl col-span-5 col-start-2">
+        <p className="font-sans font-bold text-xl mt-3 mb-1.5">juil. 23</p>
+        <dt className="font-sans font-bold text-2xl col-span-5 col-start-2 mt-3 mb-1.5">
           <a href="https://www.bexter.fr/" target="_blank" rel="noreferrer">
             Stage d’observation développement web - Bexter, Toulon
           </a>
@@ -156,8 +156,10 @@ function Cv() {
         🎓 Formations
       </h2>
       <dl className="grid grid-cols-6">
-        <p className="font-sans font-bold text-xl">oct. 24 - juin. 26</p>
-        <dt className="font-sans font-bold text-2xl col-span-5 col-start-2">
+        <p className="font-sans font-bold text-xl mt-3 mb-1.5">
+          oct. 24 - juin. 26
+        </p>
+        <dt className="font-sans font-bold text-2xl col-span-5 col-start-2 mt-3 mb-1.5">
           <a
             href="https://hub.oclock.io/hubfs/B2B/Alternance/Concepteur-developpeur-web-app-formation-oclock-alternance.pdf"
             target="_blank"
@@ -177,8 +179,10 @@ function Cv() {
             <li>- 1 mois de projet professionnalisant</li>
           </ul>
         </dd>
-        <p className="font-sans font-bold text-xl">oct. 23 - avr. 24</p>
-        <dt className="font-sans font-bold text-2xl col-span-5 col-start-2">
+        <p className="font-sans font-bold text-xl mt-3 mb-1.5">
+          oct. 23 - avr. 24
+        </p>
+        <dt className="font-sans font-bold text-2xl col-span-5 col-start-2 mt-3 mb-1.5">
           <a
             href="https://www.francecompetences.fr/recherche/rncp/37674/"
             target="_blank"

@@ -1,19 +1,21 @@
 function Header() {
   return (
-    <div className="my-10 grid col-span-2 max-w-screen-md gap-6">
+    <div className="grid max-w-screen-md gap-6 mx-5 md:my-10">
       <img
-        className="justify-self-end row-span-2 size-60 min-w-60"
+        className="justify-self-center size-60 min-w-60 md:row-span-2 md:justify-self-end"
         src="src/assets/pdp.png"
         alt="Profil prictures of Baptiste Jasselin"
       />
-      <h1 className="font-caption font-bold text-5xl">Baptiste Jasselin</h1>
+      <h1 className="justify-self-center font-caption font-bold text-5xl md:justify-self-start">
+        Baptiste Jasselin
+      </h1>
       <p className="font-sans text-xl">
         Je suis developpeur web[...] Lorem ipsum dolor sit amet consectetur
         adipisicing elit. Animi, provident? Nam mollitia at ab deserunt nostrum,
         ad hic beatae molestias necessitatibus voluptatem cum dolor,
         consequatur, illo similique officiis aspernatur labore?
       </p>
-      <div className="justify-self-center col-span-2 grid grid-cols-3 gap-6">
+      <div className="justify-self-center grid grid-cols-3 gap-6 md:col-span-2">
         <a
           href="https://github.com/Baptiste-Jasselin"
           target="_blank"
