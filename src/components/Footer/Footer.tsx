@@ -1,5 +1,5 @@
 function Footer() {
-  return <span className="my-8 font-sans text-xl">Version 1</span>;
+  return <span className="desktop-body">Version 1</span>;
 }
 
 export default Footer;

@@ -1,13 +1,13 @@
 function Navbar() {
   return (
     <nav className="">
-      <a className="font-sans text-xl" href="/">
+      <a className="desktop-body" href="/">
         Accueil
       </a>
-      <a className="font-sans text-xl" href="/my_projects">
+      <a className="desktop-body" href="/my_projects">
         Mes projets
       </a>
-      <a className="font-sans text-xl" href="/lab">
+      <a className="desktop-body" href="/lab">
         Lab
       </a>
     </nav>

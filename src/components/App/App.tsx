@@ -5,7 +5,7 @@ import Main from '../Main/Main';
 
 function App() {
   return (
-    <div className="py-10 mx-auto flex flex-col items-center gap-8">
+    <div className="py-20 mx-auto flex flex-col items-center gap-16">
       {/* <Navbar /> */}
       <Header />
       <Main />
