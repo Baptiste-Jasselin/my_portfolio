@@ -1,6 +1,9 @@
-import Experience from './Experience';
+type ExperienceProps = {
+  experiences: object[];
+};
 
-function Cv() {
+function Cv({ experiences }: ExperienceProps) {
+  console.log(experiences);
   return (
     <div>
       <h2 className="mobile-h2 sm:desktop-h2">🏗️ Expériences</h2>
