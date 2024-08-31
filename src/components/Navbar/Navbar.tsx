@@ -1,13 +1,13 @@
 function Navbar() {
   return (
     <nav className="">
-      <a className="desktop-body" href="/">
+      <a className="mobile-body sm:desktop-body" href="/">
         Accueil
       </a>
-      <a className="desktop-body" href="/my_projects">
+      <a className="mobile-body sm:desktop-body" href="/my_projects">
         Mes projets
       </a>
-      <a className="desktop-body" href="/lab">
+      <a className="mobile-body sm:desktop-body" href="/lab">
         Lab
       </a>
     </nav>

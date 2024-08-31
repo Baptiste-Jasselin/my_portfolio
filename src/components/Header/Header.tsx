@@ -9,7 +9,7 @@ function Header() {
       <h1 className="mobile-h1 sm:desktop-h1 justify-self-center md:justify-self-start">
         Baptiste Jasselin
       </h1>
-      <p className="desktop-body">
+      <p className="mobile-body sm:desktop-body">
         Je suis developpeur web[...] Lorem ipsum dolor sit amet consectetur
         adipisicing elit. Animi, provident? Nam mollitia at ab deserunt nostrum,
         ad hic beatae molestias necessitatibus voluptatem cum dolor,

@@ -1,7 +1,7 @@
 function MyStack() {
   return (
     <div>
-      <h2 className="desktop-h2">🧰 I love to work with...</h2>
+      <h2 className="mobile-h2 sm:desktop-h2">🧰 I love to work with...</h2>
       <div className="grid grid-cols-1 gap-4 lg:grid-cols-4 lg:gap-8 justify-items-center">
         <a href="https://fr.react.dev/" target="_blank" rel="noreferrer">
           <img

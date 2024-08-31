@@ -4,48 +4,6 @@
 @tailwind components;
 @tailwind utilities;
 
- /* Desktop */
- /* .desktop-h1 {
-  @apply font-caption font-bold text-5xl mb-7;
-} */
-
-.desktop-h2 {
-  @apply font-caption font-bold text-2xl mt-10 mb-7;
-}
-
-.desktop-h3 {
-  @apply font-sans font-bold text-2xl mt-6 mb-4;
-}
-
-.desktop-body_highlight {
-  @apply font-sans font-bold text-xl;
-}
-
-.desktop-body {
-  @apply font-sans text-xl;
-}
-
- /* Mobile */
-/* .mobile-h1 {
-  @apply font-caption font-bold text-4xl mb-6;
-} */
-
-.mobile-h2 {
-  @apply font-caption font-bold text-xl mt-5 mb-3.5;
-}
-
-.mobile-h3 {
-  @apply font-sans font-bold text-xl mt-3 mb-2;
-}
-
-.mobile-body_highlight {
-  @apply font-sans font-bold text-base;
-}
-
-.mobile-body {
-  @apply font-sans text-base;
-}
-
   /* .grid-background {
     background-color: white;
     background-image: linear-gradient(to right, rgba(0, 0, 0, 0.1) 1px, transparent 1px),

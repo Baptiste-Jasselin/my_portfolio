@@ -1,5 +1,5 @@
 function Footer() {
-  return <span className="desktop-body">Version 1</span>;
+  return <span className="mobile-body sm:desktop-body">Version 1</span>;
 }
 
 export default Footer;
