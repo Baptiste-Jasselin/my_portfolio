@@ -1,15 +1,16 @@
+import Experience from './Experience';
+
 function Cv() {
   return (
     <div>
       <h2 className="mobile-h2 sm:desktop-h2">🏗️ Expériences</h2>
-      <dl className="grid sm:grid-cols-6 gap-3">
+      <dl className="grid gap-3 sm:grid-cols-6">
         <p className="mobile-body sm:desktop-body">avr. 24</p>
         <dt className="mobile-body_highlight sm:desktop-body_highlight sm:col-span-5 sm:col-start-2">
           <a href="https://oclock.io/" target="_blank" rel="noreferrer">
             Développeur Web Product Owner - École O’clock, téléprésentiel
           </a>
         </dt>
-        <p />
         <dd className="mobile-body sm:desktop-body sm:mb-0 sm:col-span-5 sm:col-start-2 ">
           Conception, développement et déploiement d’un produit minimum viable
           (MVP). Le but du projet est de proposer aux professionnels de santé
