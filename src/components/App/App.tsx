@@ -26,6 +26,14 @@ const Expériences = [
       '- Conception et développement frontend et backend - Méthodologies et outils (SCRUM, TDD, CI/CD avec GitHub Actions, Docker, Kubernetes) - 1 mois de projet professionnalisant',
     formation: true,
   },
+  {
+    date: 'oct. 23 - avr. 24',
+    title:
+      '            Titre professionnel Développeur Web et Web Mobile Niveau 5 (RNCP37674)',
+    description:
+      '- 3 mois de socle (HTML, CSS, JavaScript, SQL) - 1 mois de spécialisation back-end - 1 mois de projet professionnalisant',
+    formation: true,
+  },
 ];
 
 function App() {

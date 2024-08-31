@@ -10,10 +10,16 @@ function Header() {
         Baptiste Jasselin
       </h1>
       <p className="mobile-body sm:desktop-body">
-        Je suis developpeur web[...] Lorem ipsum dolor sit amet consectetur
-        adipisicing elit. Animi, provident? Nam mollitia at ab deserunt nostrum,
-        ad hic beatae molestias necessitatibus voluptatem cum dolor,
-        consequatur, illo similique officiis aspernatur labore?
+        Après un diplôme en Génie Électrique et Informatique Industrielle, ainsi
+        qu'une expérience en tant que technicien support informatique, je
+        continue l'étude de cet outil formidable en me formant dans le
+        développement web. Je viens de terminer la formation Développeur Web et
+        Web Mobile avec l'école O'clock et suis diplômé du Titre Professionnel
+        Développeur Web et Web mobile (Niveau 5, BAC+2) RNCP37674. J'envisage de
+        prolonger ma formation avec O'clock en suivant le cursus en
+        apprentissage Concepteur Développeur d'Application (Code RNCP : 37873).
+        Je suis actuellement disponible. N'hésitez pas à me contacter pour plus
+        d'informations.
       </p>
       <div className="justify-self-center grid grid-cols-3 gap-6 md:col-span-2">
         <a
