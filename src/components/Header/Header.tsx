@@ -1,25 +1,22 @@
 function Header() {
   return (
-    <div className="grid max-w-screen-md gap-6 mx-5 md:mx-10">
+    <div className="grid max-w-screen-md mx-5 md:mx-10">
       <img
-        className="justify-self-center size-60 min-w-60 md:row-span-2 md:justify-self-end"
+        className="justify-self-center size-60 min-w-60 md:row-span-3 md:justify-self-end"
         src="src/assets/pdp.png"
         alt="Profil prictures of Baptiste Jasselin"
       />
-      <h1 className="mobile-h1 sm:desktop-h1 justify-self-center md:justify-self-start">
+      <h1 className="mobile-h1 justify-self-center mb-2 md:justify-self-start sm:desktop-h1 sm:mb-4">
         Baptiste Jasselin
       </h1>
-      <p className="mobile-body sm:desktop-body">
-        Après un diplôme en Génie Électrique et Informatique Industrielle, ainsi
-        qu'une expérience en tant que technicien support informatique, je
-        continue l'étude de cet outil formidable en me formant dans le
-        développement web. Je viens de terminer la formation Développeur Web et
-        Web Mobile avec l'école O'clock et suis diplômé du Titre Professionnel
-        Développeur Web et Web mobile (Niveau 5, BAC+2) RNCP37674. J'envisage de
-        prolonger ma formation avec O'clock en suivant le cursus en
-        apprentissage Concepteur Développeur d'Application (Code RNCP : 37873).
-        Je suis actuellement disponible. N'hésitez pas à me contacter pour plus
-        d'informations.
+      <h2 className="mobile-h2 justify-self-center mb-3.5 sm:desktop-h2 sm:mb-7 md:justify-self-start">
+        Développeur Web Full Stack
+      </h2>
+      <p className="mobile-body sm:desktop-body mb-6 md:col-start-2">
+        ☝️ Je suis développeur web parce que j'aime comprendre, créer, explorer.
+        C'est pour ces mêmes raisons que j'aime aussi le sport, la nature, les
+        arts. N'hésitez pas à me contacter si vous souhaitez que nous
+        travaillons ensemble.
       </p>
       <div className="justify-self-center grid grid-cols-3 gap-6 md:col-span-2">
         <a
