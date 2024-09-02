@@ -173,7 +173,7 @@ function Cv({ experiences }: ExperienceProps) {
         🎓 Formations
       </h2>
       <dl className="grid">
-        <div className="grid mb-12 gap-2 sm:gap-4 sm:grid-cols-6">
+        {/* <div className="grid mb-12 gap-2 sm:gap-4 sm:grid-cols-6">
           <p className="mobile-body sm:desktop-body">oct. 24 - juin. 26</p>
           <dt className="mobile-body_highlight sm:desktop-body_highlight sm:col-span-5 sm:col-start-2">
             <a
@@ -195,7 +195,7 @@ function Cv({ experiences }: ExperienceProps) {
               <li>- 1 mois de projet professionnalisant</li>
             </ul>
           </dd>
-        </div>
+        </div> */}
         <div className="grid mb-12 gap-2 sm:gap-4 sm:grid-cols-6">
           <p className="mobile-body sm:desktop-body">oct. 23 - avr. 24</p>
           <dt className="mobile-body_highlight sm:desktop-body_highlight sm:col-span-5 sm:col-start-2">

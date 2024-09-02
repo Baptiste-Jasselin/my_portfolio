@@ -38,7 +38,7 @@ const Expériences = [
 
 function App() {
   return (
-    <div className="py-20 mx-auto flex flex-col items-center gap-16">
+    <div className="pt-20 pb-10 mx-auto flex flex-col items-center gap-16">
       {/* <Navbar /> */}
       <Header />
       <main className="flex flex-col gap-8 mx-5 md:mx-10 lg:w-3/5">
