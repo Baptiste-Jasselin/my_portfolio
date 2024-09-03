@@ -6,7 +6,7 @@ import prismaLogo from '../../assets/Prisma-DarkLogo.svg';
 function MyStack() {
   return (
     <div>
-      <h2 className="mobile-h2 mt-5 mb-3.5 sm:desktop-h2 sm:mt-10 sm:mb-7">
+      <h2 className="mobile-h2 mt-10 mb-7 sm:desktop-h2">
         🧰 J'aime travailler avec...
       </h2>
       <div className="grid grid-cols-1 gap-4 lg:grid-cols-4 lg:gap-8 justify-items-center">

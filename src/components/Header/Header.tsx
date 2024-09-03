@@ -14,7 +14,7 @@ function Header() {
       <h1 className="mobile-h1 justify-self-center mb-2 md:justify-self-start sm:desktop-h1 sm:mb-4">
         Baptiste Jasselin
       </h1>
-      <h2 className="mobile-h2 justify-self-center mb-3.5 sm:desktop-h2 sm:mb-7 md:justify-self-start">
+      <h2 className="mobile-h2 justify-self-center mb-7 sm:desktop-h2 md:justify-self-start">
         Développeur Web Full Stack
       </h2>
       <p className="mobile-body sm:desktop-body mb-6 md:col-start-2">

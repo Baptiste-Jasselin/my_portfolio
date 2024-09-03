@@ -10,11 +10,11 @@ type ExperienceProps = {
 function Cv({ experiences }: ExperienceProps) {
   return (
     <div>
-      <h2 className="mobile-h2 mt-5 mb-3.5 sm:desktop-h2 sm:mt-10 sm:mb-7">
+      <h2 className="mobile-h2 mt-5 mb-7 sm:desktop-h2 sm:mt-10">
         🏗️ Expériences
       </h2>
       <dl className="grid">
-        <div className="grid mb-12 gap-2 sm:gap-4 sm:grid-cols-6">
+        <div className="grid mb-7 gap-2 sm:gap-4 sm:grid-cols-6">
           <p className="mobile-body sm:desktop-body">avr. 24</p>
           <dt className="mobile-body_highlight sm:desktop-body_highlight sm:col-span-5 sm:col-start-2">
             <a href="https://oclock.io/" target="_blank" rel="noreferrer">
@@ -137,7 +137,7 @@ function Cv({ experiences }: ExperienceProps) {
             </a>
           </div>
         </div>
-        <div className="grid gap-2 mb-12 sm:gap-4 sm:grid-cols-6">
+        <div className="grid gap-2 mb-7 sm:gap-4 sm:grid-cols-6">
           <p className="mobile-body sm:desktop-body">juil. 23</p>
           <dt className="mobile-body_highlight sm:desktop-body_highlight sm:col-span-5 sm:col-start-2">
             <a href="https://www.bexter.fr/" target="_blank" rel="noreferrer">
@@ -169,7 +169,7 @@ function Cv({ experiences }: ExperienceProps) {
           </dd>
         </div> */}
       </dl>
-      <h2 className="mobile-h2 mt-5 mb-3.5 sm:desktop-h2 sm:mt-10 sm:mb-7">
+      <h2 className="mobile-h2 mt-5 mb-7 sm:desktop-h2 sm:mt-10">
         🎓 Formations
       </h2>
       <dl className="grid">
@@ -196,7 +196,7 @@ function Cv({ experiences }: ExperienceProps) {
             </ul>
           </dd>
         </div> */}
-        <div className="grid mb-12 gap-2 sm:gap-4 sm:grid-cols-6">
+        <div className="grid mb-7 gap-2 sm:gap-4 sm:grid-cols-6">
           <p className="mobile-body sm:desktop-body">oct. 23 - avr. 24</p>
           <dt className="mobile-body_highlight sm:desktop-body_highlight sm:col-span-5 sm:col-start-2">
             <a
