@@ -1,3 +1,8 @@
+import reactLogo from '../../assets/react_logo.svg';
+import tailwindLogo from '../../assets/tailwindcss-logotype.svg';
+import mongoDBLogo from '../../assets/MongoDB_Fores-Green.svg';
+import prismaLogo from '../../assets/Prisma-DarkLogo.svg';
+
 function MyStack() {
   return (
     <div>
@@ -8,28 +13,28 @@ function MyStack() {
         <a href="https://fr.react.dev/" target="_blank" rel="noreferrer">
           <img
             className="h-8 lg:h-16 rounded-lg"
-            src="src/assets/react_logo.svg"
+            src={reactLogo}
             alt="React logo"
           />
         </a>
         <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
           <img
             className="h-8 lg:h-16 rounded-lg"
-            src="src/assets/tailwindcss-logotype.svg"
+            src={tailwindLogo}
             alt="Tailwind logo"
           />
         </a>
         <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
           <img
             className="h-8 lg:h-16 rounded-lg"
-            src="src/assets/MongoDB_Fores-Green.svg"
+            src={mongoDBLogo}
             alt="MongoDB logo"
           />
         </a>
         <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
           <img
             className="h-8 lg:h-16 rounded-lg"
-            src="src/assets/Prisma-DarkLogo.svg"
+            src={prismaLogo}
             alt="Prisma logo"
           />
         </a>
